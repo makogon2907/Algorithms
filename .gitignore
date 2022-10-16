@@ -6,4 +6,4 @@
 *.out
 input.txt
 output.txt
-
+*.dSYM
